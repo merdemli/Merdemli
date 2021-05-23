@@ -22,7 +22,10 @@ Contact me !
 
   
 <a href="https://www.linkedin.com/in/merverdemli/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="batuhankaraman" height="15" width="20" /></a>
-<a href="mailto:merveerdemli6@gmail.com" target="_blank" rel="nofollow"><img alt="Merve's Mail Address" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" alt="merveerdemli" height="15" width="20"/></a>
+<a href="mailto:merveerdemli6@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" alt="merveerdemli" height="15" width="20"/></a>
+
+<a href="https://www.hackerrank.com/batuhankaraman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="batuhankaraman" height="15" width="20" /></a>
+
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Merdemli&layout=compact&theme=light)
 
