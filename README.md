@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 <h2 align="center">Hi 👋, I'm Merve</h2>
 <h4 align="center">A Geomatics Engineer and  trying to improve herself in software development. :world_map: </h4>
-<h4 align="center">🔭 I’m currently working on "Rent A Car" Project with C#, Entity Framework, Angular</h4>
-<h4 align="center">🔭 I’m currently working on "HRMS" Project with Java, Spring Boot, React</h4>
+<h4 align="center">🔭 I’m currently working on "Rent A Car" Project with C#, Entity Framework, MSSQL Server Angular</h4>
+<h4 align="center">🔭 I’m currently working on "HRMS" Project with Java, PostgreSQL, Spring Boot, React</h4>
 
 Contact me !
 
