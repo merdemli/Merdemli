@@ -13,12 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h2 align="center">Hi 👋, I'm Merve</h2>
 <h4 align="center">A Geomatics Engineer and  trying to improve herself in software development. :world_map: </h4>
 <h4 align="center">🔭 I’m currently working on "Ren tA Car" Project with C#, Entity Framework, Angular</h4>
-
-<h4 align="left">Connect with me:</h4>
 
 Contact me !
 
