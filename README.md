@@ -32,6 +32,8 @@ Contact me !
 <img src="https://img.shields.io/badge/MsSqlServer-black?style=for-the-badge&logo=eclipse&logoColor=white"></img>
 <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=eclipse&logoColor=white"></img>
 <img src="https://img.shields.io/badge/PyCharm-black?style=for-the-badge&logo=eclipse&logoColor=white"></img>
+
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Merdemli&layout=compact&theme=light)
 
 
