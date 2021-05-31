@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center">Hi 👋, I'm Merve</h2>
+<h2 align="center">Hi 👋 I'm Merve</h2>
 <h4 align="center">A Geomatics Engineer who trying to improve herself in software development. :world_map: </h4>
 <h4 align="center">🔭 I’m currently working on "Rent A Car" Project with C#, Entity Framework, MSSQL Server Angular</h4>
 <h4 align="center">🔭 I’m currently working on "HRMS" Project with Java, PostgreSQL, Spring Boot, React</h4>
