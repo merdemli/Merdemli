@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h4 align="center">🔭 I’m currently working on "Rent A Car" Project with C#, Entity Framework, MSSQL Server Angular</h4>
 <h4 align="center">🔭 I’m currently working on "HRMS" Project with Java, PostgreSQL, Spring Boot, React</h4>
 
-Contact me !
+Contact me  !
 
   
 <a href="https://www.linkedin.com/in/merverdemli/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="batuhankaraman" height="15" width="20" /></a>
