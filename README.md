@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Contact me  !
 
   
-<a href="https://www.linkedin.com/in/merverdemli/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="batuhankaraman" height="15" width="20" /></a>
+<a href="https://www.linkedin.com/in/merverdemli/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="merveerdemli" height="15" width="20" /></a>
 <a href="mailto:merveerdemli6@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" alt="merveerdemli" height="15" width="20"/></a>
 
 <img src="https://img.shields.io/badge/Visual_Studio_2019-black?style=for-the-badge&logo=visual%20studio&logoColor=white"></img>
